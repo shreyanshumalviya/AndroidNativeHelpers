@@ -7,6 +7,7 @@ import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.androidnative.helper.InternetHelper
 import com.androidnative.helper.CameraHelper
 import com.androidnative.helper.FileHelper
 import com.androidnative.helper.NotificationHelper
